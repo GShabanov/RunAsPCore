@@ -1,4 +1,4 @@
-# Run As PCore - Setting a threads for Denuvo
+# Run As PCore - Setting threads for Denuvo
 
 ## Description
 Due to a bug within Denuvo protection, it does not correctly recognize processor cores. 
